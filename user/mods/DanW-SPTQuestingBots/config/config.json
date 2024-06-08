@@ -1,7 +1,7 @@
 {
 	"enabled": true,
 	"debug": {
-		"enabled": true,
+		"enabled": false,
 		"scav_cooldown_time": 1500,
 		"full_length_scav_raids": false,
 		"free_labs_access": false,
@@ -31,10 +31,10 @@
 			"boss": false
 		},
 		"stuck_bot_detection": {
-			"distance": 2,
-			"time": 20,
+			"distance": 3,
+			"time": 35,
 			"max_count": 8,
-			"follower_break_time": 10,
+			"follower_break_time": 15,
 			"max_not_able_bodied_time": 120
 		},
 		"unlocking_doors" : {
@@ -221,7 +221,7 @@
 				"max_bots_per_quest": 2
 			},
 			"airdrop_chaser": {
-				"desirability": 70,
+				"desirability": 95,
 				"max_bots_per_quest": 3,
 				"max_distance": 400
 			}
@@ -231,8 +231,8 @@
 		"enabled": true,
 		"blacklisted_pmc_bot_brains": [ "bossKilla", "bossTagilla", "exUsec", "followerGluharAssault", "followerGluharProtect", "crazyAssaultEvent", "bossKnight" ],
 		"spawn_retry_time": 10,
-		"delay_game_start_until_bot_gen_finishes": true,
-		"spawn_initial_bosses_first": false,
+		"delay_game_start_until_bot_gen_finishes": false,
+		"spawn_initial_bosses_first": true,
 		"advanced_eft_bot_count_management": {
 			"enabled": true,
 			"use_EFT_bot_caps": true,

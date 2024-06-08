@@ -174,7 +174,7 @@
 	},
 	"open_doors_during_raid" : {
 		"enabled": true,
-		"can_open_locked_doors": true,
+		"can_open_locked_doors": false,
 		"can_breach_doors": true,
 		"exclusion_radius": 40,
 		"min_raid_ET": 180,
