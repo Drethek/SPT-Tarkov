@@ -38,7 +38,7 @@
 		}
 	},
 	"adjust_bot_spawn_chances": {
-		"enabled": true,
+		"enabled": false,
 		"adjust_bosses": true,
 		"adjust_pmc_conversion_chances": false,
 		"pmc_conversion_update_rate": 10,
@@ -57,7 +57,7 @@
 		}
 	},
 	"destroy_loot_during_raid" : {
-		"enabled": true,
+		"enabled": false,
 		"exclusion_radius": 40,
 		"exclusion_radius_bots": 25,
 		"nearby_interactive_object_search_distance": 0.75,
