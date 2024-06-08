@@ -1,0 +1,11 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot1,"Alex",hard,33,Failed,"Farming - Part 3","Zone place_SADOVOD_03","1","14:27:31","14:29:21",
+Bot2,"Sanote",hard,13,Failed,"Golden Swag","Zone extraction_zone_zibbo","1","14:27:32","14:27:46",
+Bot3,"LimboFPS",hard,35,Failed,"Big Red Rush","Big Red Rush: Objective #1","1","14:27:32","14:30:22",
+Bot18,"Aki-chan",hard,6,Failed,"BP Depot","Zone fuel4","1","14:28:21","14:29:44",
+Bot19,"T90Commander",hard,24,Pending,"Big Red Rush","Big Red Rush: Objective #1","1","14:28:22","N/A",
+Bot20,"Vega",hard,22,Failed,"Farming - Part 3","Item Package of graphics cards","1","14:28:23","14:32:08",
+Bot20,"Vega",hard,22,Completed,"Golden Swag","Zone extraction_zone_zibbo","2","14:32:13","14:36:30",
+Bot20,"Vega",hard,22,Failed,"Golden Swag","Item Golden Zibbo lighter","1","14:36:35","14:38:42",
+Bot20,"Vega",hard,22,Completed,"Farming - Part 3","Zone place_SADOVOD_03","1","14:38:47","14:41:44",
+Bot21,"Conqueror_Alex",hard,17,Pending,"The Extortionist","Zone dead_posylni","1","14:28:24","N/A",

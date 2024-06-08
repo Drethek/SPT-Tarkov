@@ -1,0 +1,6 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot23,"Swankyorc",hard,9,Active,"Basement Crates","Basement Crates: Objective #1","1","13:15:25","N/A",
+Bot22,"JustNU",hard,22,Completed,"Basement Crates","Basement Crates: Objective #2","1","13:15:25","13:16:08",
+Bot22,"JustNU",hard,22,Pending,"Basement Crates","Basement Crates: Objective #1","1","13:16:13","N/A",
+Bot24,"TonioX",hard,26,Failed,"Crates Near Lower Platform","Crates Near Lower Platform: Objective #1","1","13:15:26","13:16:06",
+Bot25,"TinglePlayerParkov",hard,24,Active,"Postman Pat - Part 1","Item Sealed letter","1","13:15:26","N/A",

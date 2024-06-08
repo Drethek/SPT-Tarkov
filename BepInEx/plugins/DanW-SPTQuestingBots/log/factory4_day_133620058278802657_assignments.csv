@@ -1,0 +1,12 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot1,"老人",hard,27,Failed,"Scout","Zone place_pacemaker_SCOUT_03","1","21:57:34","22:05:16",
+Bot2,"3371",hard,24,Failed,"Chemical - Part 3","Item Syringe with a chemical","1","21:57:35","21:57:35",
+Bot2,"3371",hard,24,Failed,"Scout","Zone place_pacemaker_SCOUT_03","1","21:57:40","22:07:51",
+Bot3,"AcidPhantasm",hard,28,Completed,"Spawn Rush","Spawn Rush: Objective #1","1","21:57:36","21:59:30",
+Bot3,"AcidPhantasm",hard,28,Completed,"Scout","Zone place_pacemaker_SCOUT_04","1","21:59:35","21:59:51",
+Bot3,"AcidPhantasm",hard,28,Failed,"Scout","Zone place_pacemaker_SCOUT_01","1","21:59:56","22:00:49",
+Bot4,"snowythefox811",hard,10,Failed,"Sanitary Standards - Part 1","Zone pumproom","1","21:57:37","21:59:03",
+Bot8,"Bepis",hard,22,Failed,"Farming - Part 1","Zone place_SADOVOD_01_1","2","21:57:41","22:01:28",
+Bot9,"Trainfriend",hard,27,Failed,"Farming - Part 1","Zone place_SADOVOD_01_1","1","21:57:42","22:01:13",
+Bot24,"Вадимка Фетченый (matt)",normal,1,Failed,"Holding Area Patrol","Holding Area Patrol: Objective #1","1","22:12:09","22:15:25",
+Bot25,"Паша Коряга (Skwizzy)",normal,1,Failed,"Weapon Crate Outside of Forklift","Weapon Crate Outside of Forklift: Objective #1","1","22:12:19","22:13:00",

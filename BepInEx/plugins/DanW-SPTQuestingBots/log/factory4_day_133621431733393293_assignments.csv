@@ -1,0 +1,9 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot3,"Valens",hard,25,Pending,"3rd Floor Office","3rd Floor Office: Objective #1","1","12:25:11","N/A",
+Bot2,"Pherik",hard,22,Pending,"Scout","Zone place_pacemaker_SCOUT_03","1","12:25:11","N/A",
+Bot1,"weardo98",hard,19,Active,"1st Floor Office","1st Floor Office: Objective #1","1","12:25:11","N/A",
+Bot4,"Holynevil",hard,13,Active,"Scout","Zone place_pacemaker_SCOUT_03","1","12:25:11","N/A",
+Bot5,"McDewgle",hard,6,Pending,"Delivery From the Past","Zone case_extraction","1","12:25:11","N/A",
+Bot6,"冰淇淋",hard,4,Failed,"Sanitary Standards - Part 1","Zone pumproom","1","12:25:11","12:25:24",
+Bot6,"冰淇淋",hard,4,Failed,"Forklift","Forklift: Objective #1","1","12:25:29","12:25:57",
+Bot11,"Стасик Самогон (MusicManiac)",normal,1,Pending,"NE Crates in Workshop","NE Crates in Workshop: Objective #1","1","12:25:39","N/A",

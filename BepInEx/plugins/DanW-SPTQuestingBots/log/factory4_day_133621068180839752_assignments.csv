@@ -1,0 +1,11 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot6,"ChiNoel",hard,25,Completed,"Scout","Zone place_pacemaker_SCOUT_01","1","02:16:11","02:17:05",
+Bot6,"ChiNoel",hard,25,Completed,"Scout","Zone place_pacemaker_SCOUT_04","1","02:17:10","02:19:03",
+Bot2,"Bepis",hard,23,Active,"1st Floor Office","1st Floor Office: Objective #1","1","02:16:11","N/A",
+Bot3,"MedDeatH",hard,18,Failed,"Chemical - Part 3","Item Syringe with a chemical","1","02:16:11","02:18:47",
+Bot4,"TimmyGG",hard,17,Failed,"1st Floor Office","1st Floor Office: Objective #1","1","02:16:11","02:19:42",
+Bot5,"Miraki",hard,20,Failed,"Farming - Part 1","Zone place_SADOVOD_01_1","1","02:16:11","02:19:30",
+Bot1,"7 TO 14 FERAL HOGS",hard,5,Completed,"Break Room","Break Room: Objective #1","1","02:16:12","02:17:38",
+Bot1,"7 TO 14 FERAL HOGS",hard,5,Failed,"The Huntsman Path - Secured Perimeter","Zone huntsman_013","1","02:17:43","02:18:23",
+Bot9,"Шура Морковник (Refringe)",normal,1,Failed,"Crates Outside of Scav Bunker","Crates Outside of Scav Bunker: Objective #1","2","02:16:21","02:18:36",
+Bot14,"Карлуша Глазастый (Oraceon)",normal,1,Pending,"Crates Near Lower Platform","Crates Near Lower Platform: Objective #1","1","02:19:22","N/A",

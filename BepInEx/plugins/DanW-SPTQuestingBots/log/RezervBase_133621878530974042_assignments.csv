@@ -1,0 +1,13 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot1,"Colonel",hard,19,Failed,"Disease History","Item Medical record #2","1","00:49:11","00:49:32",
+Bot1,"Colonel",hard,19,Active,"Disease History","Item Medical record #1","1","00:49:37","N/A",
+Bot3,"GopnikWarrior",hard,5,Active,"Knight Garages","Knight Garages: Objective #1","1","00:49:13","N/A",
+Bot4,"ODT",hard,15,Pending,"A Fuel Matter","Zone baraholshik_fuel_area_3","1","00:49:13","N/A",
+Bot12,"Crackbone",hard,30,Active,"Classified Technologies","Item T-90M Commander Control Panel","1","00:49:14","N/A",
+Bot13,"Big Chungus",hard,16,Failed,"Command Center","Command Center: Objective #9","1","00:49:14","00:50:45",
+Bot14,"王哈桑ザ",hard,16,Active,"Inventory Check","Zone baraholshik_arsenal_area_4","1","00:49:14","N/A",
+Bot15,"CheekiBreeki",hard,22,Pending,"Inventory Check","Zone baraholshik_arsenal_area_4","1","00:49:14","N/A",
+Bot19,"ChazLTK",hard,20,Pending,"The Bunker - Part 2","Zone prapor_025_area_3","1","00:49:15","N/A",
+Bot18,"halik92",hard,18,Active,"Disease History","Item Medical record #2","1","00:49:15","N/A",
+Bot21,"Олег Бибис (GopnikWarrior)",normal,1,Completed,"SW Tank","SW Tank: Objective #1","1","00:49:16","00:49:22",
+Bot21,"Олег Бибис (GopnikWarrior)",normal,1,Active,"Black Pawn","Black Pawn: Objective #9","1","00:49:27","N/A",

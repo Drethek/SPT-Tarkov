@@ -1,0 +1,11 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot1,"alias",hard,22,Active,"The Bunker - Part 2","Zone prapor_025_area_1","1","03:12:17","N/A",
+Bot2,"JustNU",hard,27,Failed,"Inventory Check","Zone baraholshik_arsenal_area_3","1","03:12:17","03:12:36",
+Bot2,"JustNU",hard,27,Pending,"Inventory Check","Zone baraholshik_dejurniy_area_2","1","03:12:41","N/A",
+Bot3,"VirtualHex",hard,19,Completed,"Documents","Item Military documents #2","1","03:12:17","03:13:24",
+Bot3,"VirtualHex",hard,19,Active,"Documents","Item Military documents #1","1","03:13:29","N/A",
+Bot7,"DanCam38",hard,26,Failed,"Back Door","Zone mechanik_exit_area_1","1","03:12:19","03:12:19",
+Bot5,"TimmyGG",hard,8,Pending,"Dome Buildings","Dome Buildings: Objective #1","1","03:12:19","N/A",
+Bot4,"CheekiBreeki",hard,3,Pending,"Dome Buildings","Dome Buildings: Objective #1","3","03:12:19","N/A",
+Bot6,"Ngst",hard,18,Failed,"The Bunker - Part 2","Zone prapor_025_area_4","1","03:12:19","03:13:23",
+Bot6,"Ngst",hard,18,Active,"The Bunker - Part 2","Zone prapor_025_area_3","1","03:13:28","N/A",

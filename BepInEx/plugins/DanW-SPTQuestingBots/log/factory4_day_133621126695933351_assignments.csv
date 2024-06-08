@@ -1,0 +1,12 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot45,"Jeo",hard,6,Failed,"Gate 3","Gate 3: Objective #1","6","03:52:39","03:55:21",
+Bot47,"Mako",hard,2,Completed,"Crates Outside of Gate 3","Crates Outside of Gate 3: Objective #1","1","03:52:39","03:53:59",
+Bot47,"Mako",hard,2,Completed,"The Huntsman Path - Secured Perimeter","Zone huntsman_013","1","03:54:04","03:54:35",
+Bot46,"MusicManiac",hard,1,Failed,"Crates Outside of Gate 3","Crates Outside of Gate 3: Objective #1","1","03:52:39","03:53:42",
+Bot50,"SUPERBUBU3000",hard,29,Failed,"Farming - Part 1","Zone place_SADOVOD_01_1","1","03:52:39","03:53:19",
+Bot49,"Devraccoon",hard,7,Completed,"Sanitary Standards - Part 1","Zone pumproom","1","03:52:39","03:55:37",
+Bot48,"Yakhmet",hard,4,Completed,"Crates Outside of Scav Bunker","Crates Outside of Scav Bunker: Objective #1","2","03:52:40","03:53:44",
+Bot48,"Yakhmet",hard,4,Failed,"Crates Near Lower Platform","Crates Near Lower Platform: Objective #1","1","03:53:49","03:56:20",
+Bot48,"Yakhmet",hard,4,Active,"The Huntsman Path - Secured Perimeter","Zone huntsman_013","1","03:56:26","N/A",
+Bot55,"Мартын Опасный (Clodan)",normal,1,Failed,"NE Crates in Workshop","NE Crates in Workshop: Objective #1","1","03:55:44","03:57:43",
+Bot57,"Ромчик Летёха (Jester_Stacks)",normal,1,Completed,"3rd Floor Office","3rd Floor Office: Objective #1","2","03:57:21","03:57:48",
