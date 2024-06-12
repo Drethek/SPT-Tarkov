@@ -1,135 +1,161 @@
 {
   "hideout": {
-    "5": {
+    "11": {
       "currentLevel": 3,
-      "raidsSinceStarted": 37,
-      "timeAvailable": 1717714008966
+      "raidsSinceStarted": 0,
+      "timeAvailable": 1718151389481
     },
-    "7": {
-      "currentLevel": 3,
-      "raidsSinceStarted": 20,
-      "timeAvailable": 1717773027034
-    },
-    "8": {
-      "currentLevel": 3,
-      "raidsSinceStarted": 3,
-      "timeAvailable": 1717847735631
-    },
-    "12": {
-      "currentLevel": 2,
-      "raidsSinceStarted": 16,
-      "timeAvailable": 1717781657998
+    "13": {
+      "currentLevel": 1,
+      "raidsSinceStarted": 0,
+      "timeAvailable": 1718207789444
     },
     "16": {
+      "currentLevel": 3,
+      "raidsSinceStarted": 33,
+      "timeAvailable": 1717977564712
+    },
+    "17": {
       "currentLevel": 1,
-      "raidsSinceStarted": 37,
-      "timeAvailable": 1717714008967
+      "raidsSinceStarted": 0,
+      "timeAvailable": 1718151389481
+    },
+    "20": {
+      "currentLevel": 1,
+      "raidsSinceStarted": 11,
+      "timeAvailable": 1718058977844
     },
     "21": {
       "currentLevel": 1,
-      "raidsSinceStarted": 37,
+      "raidsSinceStarted": 110,
       "timeAvailable": 1717714008967
+    },
+    "24": {
+      "currentLevel": 2,
+      "raidsSinceStarted": 0,
+      "timeAvailable": 1718151389481
     }
   },
   "quests": {
     "63a88045abf76d719f42d715": {
-      "raidsSinceStarted": 37
+      "raidsSinceStarted": 110
     },
     "5c1234c286f77406fa13baeb": {
-      "raidsSinceStarted": 37
-    },
-    "5ae448bf86f7744d733e55ee": {
-      "raidsSinceStarted": 37
+      "raidsSinceStarted": 110
     },
     "638fcd23dc65553116701d33": {
-      "raidsSinceStarted": 37
-    },
-    "626bd75e47ea7f506e5493c5": {
-      "raidsSinceStarted": 37
+      "raidsSinceStarted": 110
     },
     "5c0d190cd09282029f5390d8": {
-      "raidsSinceStarted": 37
+      "raidsSinceStarted": 110
     },
     "6193850f60b34236ee0483de": {
-      "raidsSinceStarted": 37
-    },
-    "5ac3464c86f7741d651d6877": {
-      "raidsSinceStarted": 37
+      "raidsSinceStarted": 110
     },
     "5c0bde0986f77479cf22c2f8": {
-      "raidsSinceStarted": 37
-    },
-    "6179b3bdc7560e13d23eeb8d": {
-      "raidsSinceStarted": 37
+      "raidsSinceStarted": 110
     },
     "5bc4826c86f774106d22d88b": {
-      "raidsSinceStarted": 37
-    },
-    "5ac244eb86f7741356335af1": {
-      "raidsSinceStarted": 8
-    },
-    "5ede55112c95834b583f052a": {
-      "raidsSinceStarted": 37
-    },
-    "596a218586f77420d232807c": {
-      "raidsSinceStarted": 8
-    },
-    "60896e28e4a85c72ef3fa301": {
-      "raidsSinceStarted": 37
+      "raidsSinceStarted": 110
     },
     "639135d89444fb141f4e6eea": {
-      "raidsSinceStarted": 37
-    },
-    "6179ad56c760af5ad2053587": {
-      "raidsSinceStarted": 37
+      "raidsSinceStarted": 110
     },
     "63ab180c87413d64ae0ac20a": {
-      "raidsSinceStarted": 37
-    },
-    "597a0e5786f77426d66c0636": {
-      "raidsSinceStarted": 37
-    },
-    "59675ea386f77414b32bded2": {
-      "raidsSinceStarted": 33
-    },
-    "596760e186f7741e11214d58": {
-      "raidsSinceStarted": 31
-    },
-    "59c50a9e86f7745fef66f4ff": {
-      "raidsSinceStarted": 24
+      "raidsSinceStarted": 110
     },
     "5d25cf2686f77443e75488d4": {
-      "raidsSinceStarted": 24
+      "raidsSinceStarted": 45
     },
     "5d25d2c186f77443e35162e5": {
-      "raidsSinceStarted": 24
-    },
-    "5ac3477486f7741d651d6885": {
-      "raidsSinceStarted": 20
+      "raidsSinceStarted": 97
     },
     "64ee9df4496db64f9b7a4432": {
-      "raidsSinceStarted": 20
-    },
-    "5a68665c86f774255929b4c7": {
-      "raidsSinceStarted": 18
-    },
-    "5b4794cb86f774598100d5d4": {
-      "raidsSinceStarted": 18
-    },
-    "5d4bec3486f7743cac246665": {
-      "raidsSinceStarted": 18
+      "raidsSinceStarted": 93
     },
     "6179b3a12153c15e937d52bc": {
-      "raidsSinceStarted": 18
-    },
-    "5a27b87686f77460de0252a8": {
-      "raidsSinceStarted": 18
+      "raidsSinceStarted": 91
     },
     "5edab4b1218d181e29451435": {
-      "raidsSinceStarted": 8
+      "raidsSinceStarted": 81
     },
-    "6578ec473dbd035d04531a8d": {
-      "raidsSinceStarted": 16
+    "5edac34d0bb72a50635c2bfa": {
+      "raidsSinceStarted": 73
+    },
+    "639135f286e646067c176a87": {
+      "raidsSinceStarted": 71
+    },
+    "6179aff8f57fb279792c60a1": {
+      "raidsSinceStarted": 62
+    },
+    "5a27ba1c86f77461ea5a3c56": {
+      "raidsSinceStarted": 60
+    },
+    "5a03296886f774569778596a": {
+      "raidsSinceStarted": 45
+    },
+    "5b478eca86f7744642012254": {
+      "raidsSinceStarted": 50
+    },
+    "6391359b9444fb141f4e6ee6": {
+      "raidsSinceStarted": 50
+    },
+    "5a68669a86f774255929b4d4": {
+      "raidsSinceStarted": 45
+    },
+    "5ede567cfa6dc072ce15d6e3": {
+      "raidsSinceStarted": 36
+    },
+    "6089732b59b92115597ad789": {
+      "raidsSinceStarted": 36
+    },
+    "639872fa9b4fb827b200d8e5": {
+      "raidsSinceStarted": 0
+    },
+    "6089743983426423753cd58a": {
+      "raidsSinceStarted": 33
+    },
+    "666641922cf293db86000001": {
+      "raidsSinceStarted": 0
+    },
+    "59ca264786f77445a80ed044": {
+      "raidsSinceStarted": 18
+    },
+    "5c0d0d5086f774363760aef2": {
+      "raidsSinceStarted": 12
+    },
+    "5c0d0f1886f77457b8210226": {
+      "raidsSinceStarted": 12
+    },
+    "6179b5eabca27a099552e052": {
+      "raidsSinceStarted": 12
+    },
+    "63913715f8e5dd32bf4e3aaa": {
+      "raidsSinceStarted": 10
+    },
+    "6179acbdc760af5ad2053585": {
+      "raidsSinceStarted": 6
+    },
+    "626bd75c71bd851e971b82a5": {
+      "raidsSinceStarted": 6
+    },
+    "5ae4490786f7744ca822adcc": {
+      "raidsSinceStarted": 0
+    },
+    "608974d01a66564e74191fc0": {
+      "raidsSinceStarted": 0
+    },
+    "5b478d0f86f7744d190d91b5": {
+      "raidsSinceStarted": 0
+    },
+    "5b47876e86f7744d1c353205": {
+      "raidsSinceStarted": 0
+    },
+    "5ae4496986f774459e77beb6": {
+      "raidsSinceStarted": 0
+    },
+    "5ae4498786f7744bde357695": {
+      "raidsSinceStarted": 0
     }
   }
 }

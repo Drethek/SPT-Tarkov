@@ -28,7 +28,7 @@
       "Change": {},
       "Core": {
         "VisibleAngle": 160.0,
-        "VisibleDistance": 222.0,
+        "VisibleDistance": 220.0,
         "GainSightCoef": 0.05,
         "ScatteringPerMeter": 0.045,
         "ScatteringClosePerMeter": 0.12,
@@ -49,7 +49,7 @@
       "Hearing": {},
       "Lay": {},
       "Look": {
-        "VisionSpeedModifier": 1.0,
+        "VisionSpeedModifier": 0.9,
         "CloseVisionSpeed": 1.0,
         "FarVisionSpeed": 1.0,
         "CloseFarThresh": 50.0,
@@ -72,7 +72,7 @@
         "NO_GRASS_DIST": 3.0
       },
       "Mind": {
-        "Aggression": 1.0,
+        "Aggression": 0.9,
         "WeaponProficiency": 0.5,
         "TalkFrequency": 1.0,
         "CanTalk": true,
@@ -129,7 +129,7 @@
       "Change": {},
       "Core": {
         "VisibleAngle": 160.0,
-        "VisibleDistance": 222.0,
+        "VisibleDistance": 235.0,
         "GainSightCoef": 0.05,
         "ScatteringPerMeter": 0.045,
         "ScatteringClosePerMeter": 0.12,
@@ -150,7 +150,7 @@
       "Hearing": {},
       "Lay": {},
       "Look": {
-        "VisionSpeedModifier": 1.0,
+        "VisionSpeedModifier": 0.8,
         "CloseVisionSpeed": 1.0,
         "FarVisionSpeed": 1.0,
         "CloseFarThresh": 50.0,
@@ -230,7 +230,7 @@
       "Change": {},
       "Core": {
         "VisibleAngle": 160.0,
-        "VisibleDistance": 222.0,
+        "VisibleDistance": 250.0,
         "GainSightCoef": 0.05,
         "ScatteringPerMeter": 0.045,
         "ScatteringClosePerMeter": 0.12,
@@ -251,7 +251,7 @@
       "Hearing": {},
       "Lay": {},
       "Look": {
-        "VisionSpeedModifier": 1.0,
+        "VisionSpeedModifier": 0.7,
         "CloseVisionSpeed": 1.0,
         "FarVisionSpeed": 1.0,
         "CloseFarThresh": 50.0,
@@ -274,7 +274,7 @@
         "NO_GRASS_DIST": 3.0
       },
       "Mind": {
-        "Aggression": 1.0,
+        "Aggression": 1.1,
         "WeaponProficiency": 0.5,
         "TalkFrequency": 1.0,
         "CanTalk": true,
@@ -331,7 +331,7 @@
       "Change": {},
       "Core": {
         "VisibleAngle": 160.0,
-        "VisibleDistance": 222.0,
+        "VisibleDistance": 260.0,
         "GainSightCoef": 0.05,
         "ScatteringPerMeter": 0.045,
         "ScatteringClosePerMeter": 0.12,
@@ -352,7 +352,7 @@
       "Hearing": {},
       "Lay": {},
       "Look": {
-        "VisionSpeedModifier": 1.0,
+        "VisionSpeedModifier": 0.6,
         "CloseVisionSpeed": 1.0,
         "FarVisionSpeed": 1.0,
         "CloseFarThresh": 50.0,
@@ -375,7 +375,7 @@
         "NO_GRASS_DIST": 3.0
       },
       "Mind": {
-        "Aggression": 1.0,
+        "Aggression": 1.2,
         "WeaponProficiency": 0.5,
         "TalkFrequency": 1.0,
         "CanTalk": true,

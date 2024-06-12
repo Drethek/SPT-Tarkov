@@ -3,15 +3,16 @@
   "debug": true,
   "trace": false,
   "appliesToQuests": true,
-  "includeGunsmith": true,
+  "includeGunsmith": false,
   "appliesToHideout": true,
   "increasesStack": false,
-  "includeScavRaids": true,
+  "includeScavRaids": false,
   "includeKeys": false,
   "keysAdditionalMultiplier": 0,
-  "maxDropRateMultiplier": 70,
+  "maxDropRateMultiplier": 40,
   "dropRateIncreaseType": "raid",
   "dropRateIncreasePerRaid": 0.05,
-  "dropRateIncreasePerHour": 0.01,
+  "dropRateIncreasePerHour": 0.05,
   "excludeCollector": false
 }
+
