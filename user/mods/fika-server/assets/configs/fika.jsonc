@@ -8,7 +8,7 @@
         "forceSaveOnDeath": false
     },
     "server": {
-        "giftedItemsLoseFIR": true,
+        "giftedItemsLoseFIR": false,
         "launcherListAllProfiles": false
     }
 }

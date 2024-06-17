@@ -1,11 +1,14 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+const ConfigTypes_1 = require("C:/snapshot/project/obj/models/enums/ConfigTypes");
 class Mod {
     itemHelper;
     offerService;
     tradeHelper;
     profileHelper;
     saveServer;
+    priceService;
+    ragfairConfig;
     logger;
     preAkiLoad(container) {
         const logger = container.resolve("WinstonLogger");
@@ -17,6 +20,9 @@ class Mod {
         this.tradeHelper = container.resolve("TradeHelper");
         this.profileHelper = container.resolve("ProfileHelper");
         this.saveServer = container.resolve("SaveServer");
+        this.priceService = container.resolve("RagfairPriceService");
+        const config = container.resolve("ConfigServer");
+        this.ragfairConfig = config.getConfig(ConfigTypes_1.ConfigTypes.RAGFAIR);
         // Hook up a new static route
         staticRouterModService.registerStaticRouter("LootValueRoutes", [
             {
@@ -39,16 +45,27 @@ class Mod {
         ], "custom-static-LootValueRoutes");
     }
     getItemLowestFleaPrice(templateId) {
-        let offers = this.offerService.getOffersOfType(templateId);
-        if (offers && offers.length > 0) {
-            offers = offers.filter(a => a.user.memberType != 4 //exclude traders
-                && a.requirements[0]._tpl == '5449016a4bdc2d6f028b456f' //consider only ruble trades
-                && this.itemHelper.getItemQualityModifier(a.items[0]) == 1 //and items with full durability
-            );
-            if (offers.length > 0)
-                return (offers.sort((a, b) => a.summaryCost - b.summaryCost)[0]).summaryCost;
-        }
+        const singleItemPrice = this.getFleaSingleItemPriceForTemplate(templateId);
+        if (singleItemPrice > 0)
+            return Math.floor(singleItemPrice);
         return null;
+    }
+    getFleaSingleItemPriceForTemplate(templateId) {
+        // https://dev.sp-tarkov.com/SPT/Server/src/branch/master/project/src/controllers/RagfairController.ts#L411
+        // const name = this.itemHelper.getItemName(templateId);
+        const offers = this.offerService.getOffersOfType(templateId);
+        if (!offers || !offers.length)
+            return null;
+        const offersByPlayers = [...offers.filter(a => a.user.memberType != 4)];
+        if (!offersByPlayers || !offersByPlayers.length)
+            return null;
+        let fleaPriceForItem = this.priceService.getFleaPriceForItem(templateId);
+        //console.log(`Item ${name} price per unit: ${fleaPriceForItem}`);
+        const itemPriceModifer = this.ragfairConfig.dynamic.itemPriceMultiplier[templateId];
+        //console.log(`Item price modifier: ${itemPriceModifer || "No modifier in place"}`);
+        if (itemPriceModifer)
+            fleaPriceForItem *= itemPriceModifer;
+        return fleaPriceForItem;
     }
     sellItemToTrader(sessionId, itemId, traderId, price) {
         let pmcData = this.profileHelper.getPmcProfile(sessionId);
