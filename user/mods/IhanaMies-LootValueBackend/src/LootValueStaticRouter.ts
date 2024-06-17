@@ -96,7 +96,7 @@ class Mod implements IPreAkiLoadMod
 		let fleaPriceForItem = this.priceService.getFleaPriceForItem(templateId);
 		//console.log(`Item ${name} price per unit: ${fleaPriceForItem}`);
 
-		const itemPriceModifer = this.ragfairConfig.dynamic.itemPriceMultiplier[templateId];
+		const itemPriceModifer = this.ragfairConfig.dynamic.priceRanges[templateId];
 		//console.log(`Item price modifier: ${itemPriceModifer || "No modifier in place"}`);
 
 		if (itemPriceModifer)
